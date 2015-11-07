@@ -18,7 +18,6 @@ Check it out here: http://www.universitycrimewatch.com
 * populated the scatter plot with c3.js to show all the schools and their crime data. However, due to the heavy amount of data we had (11,000 schools), the scatter plot was hard to read. Thus, we moved it and replaced it with:
 * writing the script for ticking number stats on the landing page
 
-Team Members: 
 == Developers
 
 * {Nichole Shelton}[https://github.com/vibrantlife] team lead
