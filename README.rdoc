@@ -17,4 +17,3 @@ Technologies Used
 * Datamaps.js - Sort by state
 * GoogleMaps API - Heat map of school crimes
 
-(http://www.universitycrimewatch.com/assets/technologiesused-05a3a2b3e0c067ac47d78e3325d95c7d.png)
