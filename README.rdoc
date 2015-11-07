@@ -17,3 +17,11 @@ Technologies Used
 * Datamaps.js - Sort by state
 * GoogleMaps API - Heat map of school crimes
 
+Team Members: 
+== Developers
+
+{Nichole Shelton}[https://github.com/vibrantlife] team lead
+{Afton Hencky}[https://github.com/ahencky]
+{Jessie Wu}[https://github.com/jessiewuwu]
+{Yumiko Huang}[https://github.com/yumikohey]
+{Lukas Jones}[https://github.com/lukasjones]
